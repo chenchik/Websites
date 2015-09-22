@@ -1,7 +1,7 @@
 # Websites
 A list of websites I've created:
 <ul>
-  <li>elseup.com</li>
+  <li><a href="http://elseup.com">elseup.com</a></li>
   <li>blizzlife.com</li>
   <li>onlineyogahub.com</li>
   <li>gboats.com</li>
